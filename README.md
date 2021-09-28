@@ -5,7 +5,8 @@ _SeedingHope es un smartcontract bajo el protocolo de NEAR, el cual permite crea
 * Conseguir información de un programa social.
 * Conseguir lista de programas sociales.
 * Donar a un programa social.
-* Eliminar un programa social._
+* Eliminar un programa social.
+_
 
 ## Comenzando 🚀
 
