@@ -1,11 +1,11 @@
 # SeedingHope
 
-_SeedingHope es un smartcontract bajo el protocolo de NEAR, el cual permite crear programas sociales para la recaudación de fondos en nears dedicados a una causa social específica. Este smartcontract permite:
+_SeedingHope es un smartcontract bajo el protocolo de NEAR, el cual permite crear programas sociales para la recaudación de fondos en nears dedicados a una causa social específica. Este smartcontract permite:_
 * Crear un programa social.
 * Conseguir información de un programa social.
 * Conseguir lista de programas sociales.
 * Donar a un programa social.
-* Eliminar un programa social._
+* Eliminar un programa social.
 
 ## Comenzando 🚀
 
